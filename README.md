@@ -10,7 +10,7 @@ pip install azure-storage-blob
 
 OpenAI
 For integrating with Azure OpenAI services.
-pip install openai
+pip install openai==0.28.0
 
 
 Pandas
